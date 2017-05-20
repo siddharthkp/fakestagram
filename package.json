@@ -10,7 +10,7 @@
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
     "native": "react-native-scripts start",
-    "dev": "reaqt dev"
+    "web": "reaqt dev"
   },
   "jest": {
     "preset": "jest-expo"
